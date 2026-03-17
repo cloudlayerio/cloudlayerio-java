@@ -1,0 +1,16 @@
+{
+  "id": "tmpl-doc-001",
+  "templateId": "invoice-standard",
+  "title": "Standard Invoice",
+  "shortDescription": "A clean invoice template",
+  "searchKeywords": ["invoice", "billing", "receipt"],
+  "tags": ["business", "finance"],
+  "category": "business",
+  "type": "pdf",
+  "previewUrl": "https://storage.cloudlayer.io/previews/invoice.png",
+  "exampleAssetUrl": "https://storage.cloudlayer.io/examples/invoice.pdf",
+  "highlights": ["Professional layout", "Customizable fields"],
+  "timestamp": { "_seconds": 1710000000, "_nanoseconds": 0 },
+  "projectId": "proj-001",
+  "sampleData": { "companyName": "Acme Inc", "amount": 1500 }
+}

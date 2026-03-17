@@ -1,0 +1,16 @@
+{
+  "uid": "user-456",
+  "id": "asset-789",
+  "fileId": "file-abc",
+  "previewFileId": "file-abc-preview",
+  "type": "application/pdf",
+  "ext": "pdf",
+  "previewExt": "png",
+  "url": "https://storage.cloudlayer.io/assets/abc.pdf",
+  "previewUrl": "https://storage.cloudlayer.io/assets/abc-preview.png",
+  "size": 125000,
+  "timestamp": { "_seconds": 1710000000, "_nanoseconds": 0 },
+  "projectId": "proj-001",
+  "jobId": "job-123",
+  "name": "test-conversion"
+}

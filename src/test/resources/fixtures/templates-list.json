@@ -1,0 +1,4 @@
+[
+  {"id":"tmpl-1","templateId":"invoice","title":"Invoice","category":"business","type":"pdf","tags":["business"]},
+  {"id":"tmpl-2","templateId":"receipt","title":"Receipt","category":"business","type":"pdf","tags":["business","finance"]}
+]

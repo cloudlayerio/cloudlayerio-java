@@ -1,0 +1,9 @@
+{
+  "id": "job-pending-1",
+  "uid": "user-456",
+  "name": "pending-job",
+  "type": "html-pdf",
+  "status": "pending",
+  "timestamp": 1710000000,
+  "self": "/v2/jobs/job-pending-1"
+}

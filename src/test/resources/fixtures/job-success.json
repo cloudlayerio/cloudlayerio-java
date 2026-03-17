@@ -1,0 +1,22 @@
+{
+  "id": "job-123",
+  "uid": "user-456",
+  "name": "test-conversion",
+  "type": "url-pdf",
+  "status": "success",
+  "timestamp": { "_seconds": 1710000000, "_nanoseconds": 500000000 },
+  "workerName": "worker-1",
+  "processTime": 2500,
+  "apiKeyUsed": "key-abc",
+  "processTimeCost": 0.005,
+  "apiCreditCost": 0.01,
+  "bandwidthCost": 0.002,
+  "totalCost": 0.017,
+  "size": 125000,
+  "params": { "url": "https://example.com", "format": "a4" },
+  "assetUrl": "https://storage.cloudlayer.io/assets/abc.pdf",
+  "previewUrl": "https://storage.cloudlayer.io/assets/abc-preview.png",
+  "self": "/v2/jobs/job-123",
+  "assetId": "asset-789",
+  "projectId": "proj-001"
+}

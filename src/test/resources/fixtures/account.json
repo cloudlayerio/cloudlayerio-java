@@ -1,0 +1,19 @@
+{
+  "email": "test@example.com",
+  "callsLimit": 1000,
+  "calls": 42,
+  "storageUsed": 2,
+  "storageLimit": 5,
+  "subscription": "growth",
+  "bytesTotal": 5000000,
+  "bytesLimit": 100000000,
+  "computeTimeTotal": 30000,
+  "computeTimeLimit": 600000,
+  "subType": "limit",
+  "uid": "user-456",
+  "credit": 10.50,
+  "subActive": true,
+  "url-pdf": 15,
+  "html-pdf": 20,
+  "template-image": 7
+}

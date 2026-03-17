@@ -1,0 +1,10 @@
+{
+  "id": "job-err-1",
+  "uid": "user-456",
+  "name": "failed-job",
+  "type": "url-image",
+  "status": "error",
+  "timestamp": 1710000000,
+  "error": "Navigation timeout of 30000 ms exceeded",
+  "self": "/v2/jobs/job-err-1"
+}
